@@ -15,3 +15,4 @@ The computations are carried out using [SageMath](https://www.sagemath.org/). Th
 - [Example 1](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example1frobenius.ipynb)
 - [Example 2](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example2frobenius.ipynb)
 - [Example 3](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example3frobenius.ipynb)
+- [Example 4](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example4frobenius.ipynb)
