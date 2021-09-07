@@ -1,7 +1,6 @@
 # Minimum Norm Static Output Feedback
 
 This project contains the source files for the computation of minimum norm gain matrices for static output feedback control.
-
 The intention of this project is to supplement the following conference paper:
 
 Klaus Röbenack, Daniel Gerbet:  
@@ -15,3 +14,4 @@ The computations are carried out using [SageMath](https://www.sagemath.org/). Th
 
 - [Example 1](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example1frobenius.ipynb)
 - [Example 2](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example2frobenius.ipynb)
+- [Example 3](https://nbviewer.jupyter.org/github/TUD-RST/minimum-norm-output-feedback/blob/main/src/example3frobenius.ipynb)
